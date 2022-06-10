@@ -19,5 +19,5 @@
 - Sensor band ([IT Expo project](https://github.com/GCES-Batch-2018-Minor-project-group/Sensor_Project))
     - Project made in arduino for GCES 8th-IT expo fest
     - Sensor band for visually impared people
-- My way ([Mini project/ Minor project II])
+- Cabavenue ([Mini project/ Minor project II])
     - currently working....
